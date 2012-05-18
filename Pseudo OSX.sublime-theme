@@ -612,20 +612,19 @@
 	},
 	{
 		"class": "quick_panel_label",
-		"fg": [190, 190, 190, 255],
-		"match_fg": [255, 255, 255, 255],
-		"bg": [71, 71, 71, 255],
-		"selected_fg": [220, 220, 220, 255],
-		"selected_match_fg": [255, 255, 255, 255],
+		"fg": [80, 80, 80],
+		"match_fg": [0, 0, 0],
+		"selected_fg": [50, 50, 50, 255],
+		"selected_match_fg": [20, 20, 20, 255],
 		"selected_bg": [134, 134, 134, 255]
 	},
 	{
 		"class": "quick_panel_path_label",
-		"fg": [100, 100, 100, 255],
-		"match_fg": [200, 200, 200, 255],
+		"fg": [150, 150, 150],
+		"match_fg": [50, 50, 50],
 		"bg": [41, 41, 41, 255],
 		"selected_fg": [120, 120, 120, 255],
-		"selected_match_fg": [255, 255, 255, 255],
+		"selected_match_fg": [0, 0, 0],
 		"selected_bg": [24, 24, 24, 255]
 	},
 	{
